@@ -34,6 +34,7 @@ router.get("/test", function (req, res) {
   handleSuccess(res, "<h1>Test route working</h1>");
 });
 
+// route to test if the json data set is working correctly
 router.get("/all", function (req, res) {
   try {
     const allGiftData = readGiftsData();

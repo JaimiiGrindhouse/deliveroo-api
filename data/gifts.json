@@ -8,7 +8,7 @@
       "description": "A high-tech smartwatch with advanced fitness tracking features.",
       "price": 229.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Birthday",
       "special_occasion": "Fathers Day",
       "recommended": "him"
@@ -60,7 +60,7 @@
       "description": "Indulge his taste buds with a box of whiskey-infused chocolate truffles.",
       "price": 39.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Birthday",
       "special_occasion": "Valentines",
       "recommended": "him"
@@ -112,7 +112,7 @@
       "description": "A sophisticated set of cufflinks to elevate his formal attire.",
       "price": 34.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Anniversary",
       "special_occasion": "Fathers Day",
       "recommended": "him"
@@ -125,7 +125,7 @@
       "description": "A comprehensive grooming kit for the modern man's self-care routine.",
       "price": 59.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Last Minute",
       "special_occasion": "Valentines",
       "recommended": "him"
@@ -138,7 +138,7 @@
       "description": "A sophisticated whiskey decanter set for the whiskey enthusiast.",
       "price": 129.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Birthday",
       "special_occasion": "Fathers Day",
       "recommended": "him"
@@ -151,7 +151,7 @@
       "description": "Immerse in high-quality audio with a premium Bluetooth speaker system.",
       "price": 199.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Anniversary",
       "special_occasion": "Valentines",
       "recommended": "him"
@@ -164,7 +164,7 @@
       "description": "An exquisite basket filled with a variety of premium dark chocolates.",
       "price": 49.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Last Minute",
       "special_occasion": "Fathers Day",
       "recommended": "him"
@@ -216,7 +216,7 @@
       "description": "Unleash his inner mixologist with a comprehensive cocktail kit.",
       "price": 89.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Birthday",
       "special_occasion": "Fathers Day",
       "recommended": "him"
@@ -229,7 +229,7 @@
       "description": "Immerse in the world of virtual reality with a high-quality headset.",
       "price": 149.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Anniversary",
       "special_occasion": "Valentines",
       "recommended": "him"
@@ -242,7 +242,7 @@
       "description": "A timeless leather wallet to organize his essentials with style.",
       "price": 44.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Last Minute",
       "special_occasion": "Fathers Day",
       "recommended": "him"
@@ -268,7 +268,7 @@
       "description": "Elevate his fragrance collection with a curated set of premium colognes.",
       "price": 69.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Anniversary",
       "special_occasion": "Fathers Day",
       "recommended": "him"
@@ -281,7 +281,7 @@
       "description": "Exquisite pearl drop earrings for an elegant and timeless look.",
       "price": 129.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Anniversary",
       "special_occasion": "Valentines",
       "recommended": "her"
@@ -333,7 +333,7 @@
       "description": "Stay connected with a stylish wireless charging pad for her tech accessories.",
       "price": 59.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Birthday",
       "special_occasion": "Valentines",
       "recommended": "her"
@@ -385,7 +385,7 @@
       "description": "Savor the artistry of handcrafted chocolate bars with unique flavors.",
       "price": 34.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Last Minute",
       "special_occasion": "Mothers Day",
       "recommended": "her"
@@ -437,7 +437,7 @@
       "description": "A chic and spacious tote bag to complement her everyday style.",
       "price": 69.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Anniversary",
       "special_occasion": "Valentines",
       "recommended": "her"
@@ -489,7 +489,7 @@
       "description": "A stunning sapphire pendant necklace to add a pop of color to her ensemble.",
       "price": 159.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Birthday",
       "special_occasion": "Valentines",
       "recommended": "her"
@@ -541,7 +541,7 @@
       "description": "An assortment of handcrafted artisan chocolates for a delightful taste journey.",
       "price": 54.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Last Minute",
       "special_occasion": "Mothers Day",
       "recommended": "her"
@@ -593,7 +593,7 @@
       "description": "Make a statement with a bold and stylish necklace to elevate her look.",
       "price": 69.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Anniversary",
       "special_occasion": "Valentines",
       "recommended": "her"
@@ -645,7 +645,7 @@
       "description": "A timeless and elegant gold bangle bracelet to enhance her wrist.",
       "price": 149.99,
       "image_url": "",
-      "logo_url": "",
+      "logo_url": "../public/logos/M&S logo.png",
       "occasion": "Birthday",
       "special_occasion": "Valentines",
       "recommended": "her"
